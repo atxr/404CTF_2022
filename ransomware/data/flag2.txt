@@ -1,0 +1,6 @@
+executable: JeNeSuisPasDuTo
+TCP      192.168.61.2    :13598 192.168.61.137  :38088 ESTABLISHED                    nc/2647 
+weird https://www.youtube.com/watch?v=3Kq1MIfTWCE
+
+flag: 404CTF{192.168.61.137:13598:JeNeSuisPasDuToutUnFichierMalveillant:https://github.com/504ensicsLabs/LiME}
+flag: 404CTF{192.168.61.137:13598:JeNeSuisPasDuToutUnFichierMalveillant.py:https://github.com/504ensicsLabs/LiME}
